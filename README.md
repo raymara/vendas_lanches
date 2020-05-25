@@ -40,8 +40,8 @@ Existe uma exceção à regra para o cálculo de preço, quando o lanc
 PROMOÇÃO        |  REGRA DE NEGÓCIO
 :---------      | :--------------------------------------:
 Light           | Se o lanche tem alface e não tem bacon, ganha 10% de desconto.
-Muita carne     | A cada 3 porções de carne o cliente só paga 2. Se o lanche tiver 6 porções, ocliente pagará 4. Assim por diante...
-Muito queijo    | A cada 3 porções de queijo o cliente só paga 2. Se o lanche tiver 6 porções, ocliente pagará 4. Assim por diante...
+Muita carne     | A cada 3 porções de carne o cliente só paga 2. Se o lanche tiver 6 porções, ocliente pagará 4. 
+Muito queijo    | A cada 3 porções de queijo o cliente só paga 2. Se o lanche tiver 6 porções, ocliente pagará 4.
 Inflação        | Os valores dos ingredientes são alterados com frequência e não gostaríamos que isso influenciasse nos testes automatizados.
 
 
