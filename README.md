@@ -1,4 +1,4 @@
-- Projeto Web service desenvolvido com as tecnologias Java 8, SpringBoot aplicado conceitos de API REST, Maven para automação de compilação e gerencia das dependências.
+- Projeto Web service desenvolvido com as tecnologias Java 8, SpringBoot aplicado conceitos de API REST, Maven para automação de compilação e gerencia das dependências, e Swagger para documentação.
 
 
 - Ferramentas utilizadas para os testes: JUnit e Mockito.
